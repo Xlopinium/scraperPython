@@ -1,5 +1,3 @@
-#Credits to 'nazarpechka' for helping out with this code
-
 import string, random, os, sys, _thread, httplib2, time
 # from PIL import Image
 
